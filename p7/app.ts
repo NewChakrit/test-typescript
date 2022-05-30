@@ -15,3 +15,5 @@ console.log(combineAges);
 
 const combineNames = combine("Max", "Anna");
 console.log(combineNames);
+
+console.log("Hi");
